@@ -1,7 +1,7 @@
 
 # Multiple Sign Language Detection
 
-A simple application for detecting multiple sign languages (American, British, etc.) using MediaPipe and Streamlit.
+A simple application for detecting multiple sign languages (American, British, Indian)
 
 ## How to Run the Application
 
