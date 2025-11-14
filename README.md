@@ -10,8 +10,8 @@ A simple application for detecting multiple sign languages (American, British, I
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Harsine07/Multiple_Sign_Language_Detection.git
+cd Multiple_Sign_Language_Detection
 ````
 
 ## 2️⃣ Create Virtual Environment (Python 3.10 Required)
@@ -21,7 +21,7 @@ Make sure Python 3.10 is installed.
 ### Create venv
 
 ```bash
-python3.10 -m venv venv
+py -3.10 -m venv venv
 ```
 
 ### Activate venv
